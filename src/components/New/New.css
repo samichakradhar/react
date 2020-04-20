@@ -1,0 +1,64 @@
+/* elements */
+body {
+    font: 400 16px 'Muli', sans-serif !important;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 125px;
+  }
+  
+ 
+  
+  
+  
+  li > a {
+    color: white; 
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  /* headings */
+  
+  .container-fluid h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* table */
+  table{
+    margin: 10px auto;
+    
+    text-align: center;
+  }
+  
+  table > tbody > tr.tableizer-firstrow > th {
+    padding: 10px;
+    background: lavenderblush;
+  
+    text-align: center;
+  }
+  
+  body > div.container-fluid.inner > table.tableizer-table > tbody > tr.tableizer-firstrow > td.c ab-bg{
+    border: 10px solid rgb(0165, 100, 100);
+    white-space: normal;
+    width: 170px;
+    padding: 100px;
+    background: #f8f8f8;
+    
+    text-align: center;
+  }
